@@ -90,5 +90,3 @@ const LoginSplash = ({ navigation }) => {
     </ImageBackground>
   );
 };
-
-
